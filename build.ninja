@@ -1,3 +1,4 @@
+# Filename: build.ninja
 
 cc = g++
 cflags = -Wall
